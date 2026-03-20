@@ -66,7 +66,7 @@ self-defense/
 
 Clone the repository:
 
-git clone https://github.com/YOUR-USERNAME/self-defense.git
+git clone https://github.com/sanjay-s216/self-defense.git
 
 Open the project in Android Studio and run it on an emulator or device.
 
