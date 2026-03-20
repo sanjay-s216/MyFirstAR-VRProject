@@ -1,74 +1,105 @@
 # 🥊 Self Defense Training App
 
-## 📌 Project Overview
-
-The **Self Defense Training App** is an Android application designed to teach basic self-defense techniques through interactive learning.
-This project aims to help users, especially kids and beginners, understand and practice fundamental self-defense moves using a simple and engaging mobile interface.
+An Android application designed to teach **basic self-defense techniques** through interactive learning.
+This project focuses on helping beginners and kids understand essential self-defense moves in a simple and engaging way.
 
 ---
 
-## 🚀 Features
+# 📱 App Preview
 
-* 🥊 Punch training module
-* 📊 Score tracking system
-* 🎮 Interactive learning experience
-* 📱 Simple and beginner-friendly user interface
+*(You can add screenshots of your app here later)*
 
----
+Example:
 
-## 🛠 Technologies Used
-
-* Java
-* XML
-* Android Studio
-* Android SDK
+![App Screenshot](screenshots/app-home.png)
 
 ---
 
-## 📂 Project Structure
+# 🚀 Features
+
+✔ Punch training module
+✔ Interactive learning interface
+✔ Score tracking system
+✔ Beginner friendly design
+✔ Lightweight Android application
+
+---
+
+# 🛠 Tech Stack
+
+| Technology     | Purpose                 |
+| -------------- | ----------------------- |
+| Java           | Application logic       |
+| XML            | UI design               |
+| Android SDK    | Mobile development      |
+| Android Studio | Development environment |
+
+---
+
+# 📂 Project Structure
 
 self-defense/
 │
-├── app/               # Main Android application source code
-├── README.md          # Project documentation
-├── self-defense.apk   # Installable Android application file
-└── build.gradle       # Project build configuration
+├── app/
+│   ├── src/
+│   ├── res/
+│   └── AndroidManifest.xml
+│
+├── self-defense.apk
+├── build.gradle
+└── README.md
 
 ---
 
-## 📥 Installation
+# 📥 Installation
 
-### Method 1: Install APK
+## Option 1 – Install APK
 
-1. Download the **self-defense.apk** file from this repository.
-2. Transfer the file to your Android device.
-3. Enable **Install from Unknown Sources** in settings.
-4. Install and open the application.
+1. Download the **self-defense.apk** from this repository.
+2. Move the APK to your Android device.
+3. Enable **Install from Unknown Sources**.
+4. Install and launch the app.
 
 ---
 
-### Method 2: Run from Source Code
+## Option 2 – Run from Source Code
 
-1. Clone the repository:
+Clone the repository:
 
 git clone https://github.com/YOUR-USERNAME/self-defense.git
 
-2. Open the project in Android Studio.
-3. Build and run the project on an Android device or emulator.
+Open the project in Android Studio and run it on an emulator or device.
 
 ---
 
-## 👨‍💻 Developer
+# 🎯 Project Purpose
+
+This project was developed to explore **mobile application development and interactive training systems** for self-defense awareness.
+
+It demonstrates:
+
+• Android development workflow
+• User interaction design
+• Training-based mobile applications
+
+---
+
+# 👨‍💻 Author
 
 **Sanjay**
 Founder – Kyro Forge Studio
 
 ---
 
-## 📜 License
+# 🌟 Support
 
-This project is created for educational and development purposes.
+If you find this project useful, consider giving it a ⭐ on GitHub.
 
 ---
 
-⭐ If you like this project, consider giving it a **star** on GitHub!
+# 🔮 Future Improvements
+
+* Add video-based training modules
+* Add multiple training levels
+* Add progress tracking
+* Improve UI animations
